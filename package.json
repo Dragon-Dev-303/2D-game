@@ -1,0 +1,1 @@
+{"name":"ink-fight-vercel","version":"1.0.0","private":true,"scripts":{"dev":"vercel dev","check":"node --check api/order.js && node --check api/verify.js && node --check api/entitlement.js && node --check lib/core.js"},"dependencies":{"@neondatabase/serverless":"^1.0.0"},"engines":{"node":">=20"}}
